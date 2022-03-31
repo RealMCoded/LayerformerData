@@ -1,0 +1,5 @@
+<script>
+window.onload = function() {
+    window.location.href = "https://gamejolt.com/p/beta31-rev-b-changelog-svmn5zh8";
+}
+</script>
